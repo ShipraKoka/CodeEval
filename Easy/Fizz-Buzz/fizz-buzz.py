@@ -6,18 +6,17 @@ with open(sys.argv[1], 'r') as test_cases:
         F = int(line[0])
         B = int(line[1])
         n = int(line[2])
-        fizzbuzz = []
+        fizzbuzz = ""
         for i in range(1, n+1):
             if (i % F == 0 and i % B == 0):
-                fizzbuzz.append("FB ")
+                fizzbuzz += "FB "
             elif (i % F == 0):
-                fizzbuzz.append("F ")
+                fizzbuzz += "F "
             elif (i % B == 0):
-                fizzbuzz.append("B ")
+                fizzbuzz += "B "
             else:
-                fizzbuzz.append(("{} ".format(str(i))))
-        result = ""
-        print(result.join(fizzbuzz))
+                fizzbuzz += ("{} ".format(str(i)))
+        print(fizzbuzz)
             
             
             
