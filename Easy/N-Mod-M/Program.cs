@@ -16,8 +16,8 @@ class Program
                 int N = int.Parse(numbers[0]);
                 int M = int.Parse(numbers[1]);
 
-                int factor = N / M;
-                int remainder = N - (factor * M);
+                int quotient = N / M;
+                int remainder = N - (quotient * M);
                 Console.WriteLine(remainder);
         }
     }
