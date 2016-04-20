@@ -1,0 +1,5 @@
+﻿Hello World,r
+Hello CodeEval,E
+Good Morning,o
+Welcome Back,s
+Talk To You Later,T
