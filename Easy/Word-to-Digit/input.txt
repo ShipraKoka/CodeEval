@@ -1,0 +1,7 @@
+two;seven;five;seven;nine;two;two;five;seven;six;five;zero;five;three;four;six
+seven;five;five;five;one;seven;five;three;one;one;zero;nine;five;nine;seven;zero;eight;eight;zero
+one;three;one;zero;nine;nine;two;five;four;two;three;three;two;two;one;eight;one
+two;nine;five;six;three;five;nine;two;seven;three;six;one;one;six;six;two;two
+two;four;three;three;two;seven;eight;five;seven;one;four;zero;six;nine;four;seven;two;five
+three;five;eight;five;one;five;two;one;four;eight;six;nine;three;three;three;six;zero;six;two;seven
+three;three;three;six;nine;one;one;three;five;five;three;nine;nine;one;five;nine;zero;nine
