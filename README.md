@@ -6,4 +6,4 @@ Coding challenges that I have completed via the CodeEval website. I have written
 ---
 * [Easy] (https://github.com/ShipraKoka/CodeEval/tree/master/Easy)
 * [Moderate] (https://github.com/ShipraKoka/CodeEval/tree/master/Moderate)
-* [Hard]
+* Hard
